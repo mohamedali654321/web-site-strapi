@@ -1,0 +1,8 @@
+.panel{
+     transform: perspective(1000px);
+     visibility: visible;
+     opacity: 1;
+     position: absolute;
+
+
+}
